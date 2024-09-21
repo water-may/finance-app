@@ -92,4 +92,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email contact@financeapp.com or open an issue in the GitHub repository.
+For support, email contactfinanceapp@keshavdangal.com.np or open an issue in the GitHub repository.
