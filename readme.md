@@ -31,24 +31,24 @@ The Finance Application is a web-based platform designed to manage stock transac
 ### Installation
 
 1. Clone the repository:
-   \```
+   ```
    git clone https://github.com/<your-repository>/finance-app.git
-   \```
+   ```
 2. Install the required packages:
-   \```
+   ```
    pip install -r requirements.txt
-   \```
+   ```
 
 ### Running the Application
 
 1. Set the Flask application environment variable:
-   \```
+   ```
    export FLASK_APP=main.py
-   \```
+   ```
 2. Run the Flask server:
-   \```
+   ```
    flask run
-   \```
+   ```
 
 ## Usage
 
@@ -59,26 +59,26 @@ Navigate to `http://localhost:5000` in your web browser to access the Finance Ap
 ### Adding New Features
 
 1. Create a new branch:
-   \```
+   ```
    git checkout -b feature/<feature_name>
-   \```
+   ```
 2. Implement and test your feature.
 3. Commit your changes:
-   \```
+   ```
    git commit -am "Add <feature_name>"
-   \```
+   ```
 4. Push to the branch:
-   \```
+   ```
    git push origin feature/<feature_name>
-   \```
+   ```
 5. Open a pull request.
 
 ### Running Tests
 
 Run the following command to execute the test suite:
-\```
+```
 python -m unittest discover
-\```
+```
 
 ## Contribution
 
